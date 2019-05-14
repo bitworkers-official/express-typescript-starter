@@ -5,7 +5,7 @@
 ```sh
 git clone git@github.com:bitworkers-official/express-typescript-starter.git &&
 cd express-typescript-starter &&
-npm install &&
+npm ci &&
 npm run dev
 ```
 
