@@ -9,4 +9,4 @@ npm install &&
 npm run dev
 ```
 
-Then open http://localhost:1337
+Then open http://localhost:1337 in your favorite browser.
