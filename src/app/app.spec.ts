@@ -1,7 +1,7 @@
 import { app } from './app';
 import * as request from 'supertest';
 
-function done(error) {
+function done(error: Error | undefined) {
   if (error) {
     throw error
   }
