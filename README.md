@@ -1,3 +1,5 @@
+![travis ci](https://travis-ci.com/bitworkers-official/express-typescript-starter.svg?branch=master)
+
 # Express Typescript Starter
 
 ## Quickstart 🚀
